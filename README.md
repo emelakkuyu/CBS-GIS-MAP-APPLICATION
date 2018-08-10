@@ -12,10 +12,10 @@ Uygulama kullanıcılarının amacı harita üzerinde ilçe ve yer operasyonlar�
 
 PROJE DETAYLARI
 
-Ana katman, "Aerial Map With Labels" dır ve ilk olarak Türkiye’de açıldı. Ana katman için Bing Maps API kullanılır.
+Ana katman, "Aerial Map With Labels" dır ve ilk olarak Türkiye’de açılır. Ana katman için Bing Maps API kullanılır.
 Vektör katmanı ayrıca çizim bölgeleri ve nokta yerleri için de kullanılır. Bu iki katman haritada gösterilir.
-Semtler çokgen tipinde çizildikten sonra WKT (Well Know Text) formatına dönüştürülür. 
-Ayrıca yerler, Point cinsinden işaretlendikten sonra WKT formatına dönüştürülür.
+Mahalle Polygon tipinde çizildikten sonra WKT (Well Know Text) formatına dönüştürülür. 
+Ayrıca Kapılar, Point cinsinden işaretlendikten sonra WKT formatına dönüştürülür.
 
 
 Harita üzerinde çizim veya işaretleme işlemi gerçekleştirildikten sonra, kullanıcının bilgi girmesi için Popup açılır.

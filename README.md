@@ -26,7 +26,7 @@ VERİTABANI
 
 MsSql sunucusu uygulama veritabanında kullanılır. Veritabanında iki tablo, Mahalle ve kapı tablosu vardır. Her tablo, çeşitli konum bilgileri içerir. 
 Tabloların isimleri ve veri türleri aşağıda gösterilmiştir.
-Veritabanı Tabloları 
+
  
 TABLO YAPILARI
  

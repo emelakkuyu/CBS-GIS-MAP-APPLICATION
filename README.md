@@ -27,13 +27,19 @@ Veritabanı Tabloları
 Tablo Yapıları 
  
 Mahalle 
+
 Mahalle Adı - karakter  
+
 Mahalle Kodu – sayısal - unique 
+
 KOORDINATLAR – karakter max 
  
 Kapı 
+
 Mahalle Kodu– Sayısal 
+
 Kapı No 
+
 KOORDINATLAR – karakter max 
 
 http://openlayers.org/en/v3.13.1/examples/  

@@ -1,5 +1,6 @@
 # CBS-GIS-MAP-APPLICATION
 CBS/GIS MAP APPLICATION
+
 ÖZET
 
 Ana katman ve yüzey katmanlardan oluşan bir harita uygulamasında veri ekleme, editleme, bilgi gösterme, harita da konum gösterme ve sorgulama işlemleri sağlanmıştır.

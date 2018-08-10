@@ -37,3 +37,9 @@ Kapı No
 KOORDINATLAR – karakter max 
 
 http://openlayers.org/en/v3.13.1/examples/  
+
+
+
+
+
+

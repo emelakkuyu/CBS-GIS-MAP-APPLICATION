@@ -24,7 +24,7 @@ MsSql sunucusu uygulama veritabanında kullanılır. Veritabanında iki tablo, M
 Tabloların isimleri ve veri türleri aşağıda gösterilmiştir.
 Veritabanı Tabloları 
  
-Tablo Yapıları 
+TABLO YAPILARI
  
 Mahalle 
 
